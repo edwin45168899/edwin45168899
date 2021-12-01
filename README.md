@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   </a>
 </h1>
 
-![image](https://tenten.marketing/blog/content/images/size/w2000/2021/07/No-Code------------------Coding---..--by-Rae--Jul--2021--Tenten-------.jpg)
+![程式碼美圖](https://i.imgur.com/qlXJMcb.jpg)
 
 <!-- 连续打卡 -->
 <div align="center">
