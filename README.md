@@ -30,10 +30,9 @@ Here are some ideas to get you started:
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=edwin45168899" />
 </div>
 
-<!-- 活动统计图 -->
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=edwin45168899&theme=xcode" />
-</div>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=edwin45168899&show_icons=true&theme=dark&count_private=true)
+
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edwin45168899&theme=dark&layout=compact)
+
