@@ -1,0 +1,7 @@
+# 使用 GitHub CLI (gh) 建立 PAT
+
+gh auth login
+
+命令模式會顯示
+! First copy your one-time code: 0000-0000
+網頁登入時填入即可
