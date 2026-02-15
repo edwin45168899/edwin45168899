@@ -1,7 +1,7 @@
 <!-- GitHub Profile 的設定檔案 README.md -->
 <!-- 如果需要教學參考 docs/GitHubProfile.md -->
 
-### 我是工程師 Sam 🐵
+### 我是工程師 🐵
 [View in English](./README_EN.md)
 <!--
 **chiisen/chiisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 
 ---
 
-[🔗https://chiisen.github.io](https://chiisen.github.io) 🏡 Sam 的開源作品(持續累積中🏃‍♂️)(Jekyll版)  
+[🔗https://chiisen.github.io](https://chiisen.github.io) 🏡 開源作品(持續累積中🏃‍♂️)(Jekyll版)  
 [🔗https://104-5nh.pages.dev](https://104-5nh.pages.dev) 使用 Hexo 架設簡單的 104 個人履歷並發佈到 `cloudflare`  
-[🔗https://docs-axs.pages.dev](https://docs-axs.pages.dev) ⭐️ Sam 的文章分享(持續累積中🏃‍♂️)(Hexo版)  
+[🔗https://docs-axs.pages.dev](https://docs-axs.pages.dev) ⭐️ 文章分享(持續累積中🏃‍♂️)(Hexo版)  
 [🔗https://hackmd.io/@sam-liaw/SJnP2IgUI](https://hackmd.io/@sam-liaw/SJnP2IgUI) 104 履歷參考資料  
 
 ---
@@ -153,7 +153,7 @@ Cursor、Windsurf、Trae、Lingma
 
 ---
 
-- 👨‍💻 我的經歷(<a href="https://104-5nh.pages.dev" target="_blank">🔗 Sam 經歷詳細說明(Hexo 版)</a>):  
+- 👨‍💻 我的經歷(<a href="https://104-5nh.pages.dev" target="_blank">🔗 經歷詳細說明(Hexo 版)</a>):  
 
 <a href="https://104-5nh.pages.dev/2017/06/30/salmon/" target="_blank">🔗 2018年01月05日 雪霸國家公園櫻花鉤吻鮭互動導覽程式</a>![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)   
 <img src="./images/20180105salmon.jpg" width="200">  
@@ -196,14 +196,14 @@ Cursor、Windsurf、Trae、Lingma
 ---
 
 - 🏡 開源作品(持續累積中🏃‍♂️):  
-<a href="https://chiisen.github.io" target="_blank">🔗 "Sam 的🏡 開源作品介紹網站(持續累積中🏃‍♂️)(Jekyll版)"</a>  
+<a href="https://chiisen.github.io" target="_blank">🔗 "🏡 開源作品介紹網站(持續累積中🏃‍♂️)(Jekyll版)"</a>  
 
 <a href="https://github.com/chiisen?tab=repositories" target="_blank">🔗 Read More</a>  
 
 ---
 
 - ⭐️ 文章分享(持續累積中🏃‍♂️):  
-<a href="https://docs-axs.pages.dev" target="_blank">🔗 "Sam 的🏡 文章分享介紹網站(持續累積中🏃‍♂️)(Hexo版)"</a>  
+<a href="https://docs-axs.pages.dev" target="_blank">🔗 "🏡 文章分享介紹網站(持續累積中🏃‍♂️)(Hexo版)"</a>  
 
 <a href="https://github.com/chiisen?tab=repositories" target="_blank">🔗 Read More</a>  
 

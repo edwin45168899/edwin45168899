@@ -1,7 +1,7 @@
 <!-- GitHub Profile README.md (English Version) -->
 <!-- For tutorial reference, see docs/GitHubProfile.md -->
 
-### I am Engineer Sam 🐵
+### I am Engineer 🐵
 [切換到中文](./README.md)
 <!--
 **chiisen/chiisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 ---
 
-[🔗https://chiisen.github.io](https://chiisen.github.io) 🏡 Sam’s open-source projects (continuously growing🏃‍♂️)(Jekyll version)  
+[🔗https://chiisen.github.io](https://chiisen.github.io) 🏡 Open-source projects (continuously growing🏃‍♂️)(Jekyll version)  
 [🔗https://104-5nh.pages.dev](https://104-5nh.pages.dev) A simple 104 personal résumé built with Hexo and deployed to `cloudflare`  
-[🔗https://docs-axs.pages.dev](https://docs-axs.pages.dev) ⭐️ Sam’s article sharing (continuously growing🏃‍♂️)(Hexo version)  
+[🔗https://docs-axs.pages.dev](https://docs-axs.pages.dev) ⭐️ Article sharing (continuously growing🏃‍♂️)(Hexo version)  
 [🔗https://hackmd.io/@sam-liaw/SJnP2IgUI](https://hackmd.io/@sam-liaw/SJnP2IgUI) 104 résumé reference materials  
 
 
@@ -175,14 +175,14 @@ A stylish music game where players use four direction keys to control characters
 ---
 
 - 🏡 Open Source Projects (Continuously Growing🏃‍♂️):  
-<a href="https://chiisen.github.io" target="_blank">🔗 "Sam's🏡 Open Source Project Introduction Website (Continuously Growing🏃‍♂️)(Jekyll version)"</a>  
+<a href="https://chiisen.github.io" target="_blank">🔗 "🏡 Open Source Project Introduction Website (Continuously Growing🏃‍♂️)(Jekyll version)"</a>  
 
 <a href="https://github.com/chiisen?tab=repositories" target="_blank">🔗 Read More</a>  
 
 ---
 
 - ⭐️ Article Sharing (Continuously Growing🏃‍♂️):  
-<a href="https://docs-axs.pages.dev" target="_blank">🔗 "Sam's🏡 Article Sharing Website (Continuously Growing🏃‍♂️)(Hexo version)"</a>  
+<a href="https://docs-axs.pages.dev" target="_blank">🔗 "🏡 Article Sharing Website (Continuously Growing🏃‍♂️)(Hexo version)"</a>  
 
 <a href="https://github.com/chiisen?tab=repositories" target="_blank">🔗 Read More</a>  
 
