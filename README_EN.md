@@ -45,7 +45,9 @@ Maybe you want to know:
 
 ---
 
-Vibe Coding、  
+[MiniOC (Mini OpenCode — Bring the powerful OpenCode reasoning engine into your Telegram! Ensure absolute security through Docker containerization, creating the most lightweight, easy-to-use, and personalized AI assistant.)](https://github.com/chiisen/MiniOC)、  
+[mini_bot.go (OpenClaw MVP Clone - Go Version for Self-learning)](https://github.com/chiisen/mini_bot.go)、  
+[mini_bot (OpenClaw MVP Clone - Python Version for Self-learning)](https://github.com/chiisen/mini_bot)、  
 [better-agents](https://github.com/chiisen/better-agents-html)、  
 [Google Antigravity](https://github.com/chiisen/VibeCodingGamingPlatform)、  
 [Codebuff](https://github.com/chiisen/VibeCodingCodebuff)、  
@@ -65,6 +67,33 @@ Claude Code plugin ralph-wiggum、
 [AnythingLLM RAG - Build Your Own On-Premises AI Customer Service System, AI Knowledge Base System, AI Smart Assistant, and AI Expert Robot](https://github.com/chiisen/AnythingLLM_RAG)、  
 [Nano Banana Pro Prompt Engineering Toolkit](https://github.com/chiisen/NanoBananaPro)  
 Cursor, Windsurf, Trae, Lingma  
+
+---
+
+- mini_bot.go (OpenClaw MVP Clone - Go Version for Self-learning) <img src="https://img.shields.io/badge/go-%23000ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />  
+Personal AI Agent built inspired by [OpenClaw](https://github.com/anomalyco/opencode), currently in MVP version, continuously iterating.  
+🤖 Ultra-lightweight local AI assistant, pure Go implementation  
+📦 Single executable < 15MB, RAM usage < 10MB  
+💰 Low resource consumption helps reduce server costs  
+🔧 Local tool calling (Sandbox mechanism)  
+🌐 Built-in web search (DuckDuckGo API)  
+☁️ Multi-provider support (OpenAI, Ollama, MiniMax, DeepSeek, etc.)  
+📱 Telegram integration (Long Polling + whitelist filtering)  
+
+[🔗Repositories: `mini_bot.go`](https://github.com/chiisen/mini_bot.go)
+
+---
+
+- mini_bot (OpenClaw MVP Clone - Python Version for Self-learning) <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />  
+🤖 Personal AI Agent built based on [OpenClaw](https://github.com/anomalyco/opencode) concepts, referencing its architecture design  
+📚 Based on LiteLLM, supports multiple LLM providers, rich Python AI ecosystem, easy to extend and learn  
+📚 Rich Python AI ecosystem, easy to extend and learn  
+🔧 Basic tools: read/write/list directory  
+💾 Session persistence (JSONL format)  
+🧠 Long-term memory (MEMORY.md)  
+⚡ Asynchronous Agent Loop  
+
+[🔗Repositories: `mini_bot`](https://github.com/chiisen/mini_bot)
 
 ---
 
