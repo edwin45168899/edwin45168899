@@ -70,6 +70,18 @@ Cursor, Windsurf, Trae, Lingma
 
 ---
 
+- mini_bot.rs (OpenClaw MVP Clone - Rust Version for Self-learning)  <img src="https://img.shields.io/badge/rust-%2300ADD8.svg?style=for-the-badge&logo=rust&logoColor=white" />  
+Personal AI Agent built inspired by [OpenClaw](https://github.com/anomalyco/opencode), currently in MVP version, continuously iterating.  
+- **Ultra-low resource consumption**: < 5MB RAM runtime memory
+- **Fast startup**: < 10ms cold start time
+- **Highly modular**: Trait-driven architecture, all components are replaceable
+- **Cross-platform**: Supports ARM, x86, and RISC-V architectures
+- **Secure by default**: Strict sandbox isolation, explicit whitelist
+
+[🔗Repositories: `mini_bot.rs`](https://github.com/chiisen/mini_bot.rs)
+
+---
+
 - mini_bot.go (OpenClaw MVP Clone - Go Version for Self-learning) <img src="https://img.shields.io/badge/go-%23000ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />  
 Personal AI Agent built inspired by [OpenClaw](https://github.com/anomalyco/opencode), currently in MVP version, continuously iterating.  
 🤖 Ultra-lightweight local AI assistant, pure Go implementation  

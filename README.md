@@ -69,6 +69,18 @@ Cursor、Windsurf、Trae、Lingma
 
 ---
 
+- mini_bot.rs (OpenClaw MVP 自學模仿專案 Rust 版)  <img src="https://img.shields.io/badge/rust-%2300ADD8.svg?style=for-the-badge&logo=rust&logoColor=white" />  
+參考 [OpenClaw](https://github.com/anomalyco/opencode) 打造的 Personal AI Agent，目前為 MVP 版本，持續迭代中。  
+- **極低資源消耗**：< 5MB RAM 執行時期記憶體
+- **快速啟動**：< 10ms 冷啟動時間
+- **高度模組化**：透過 Trait 驅動的架構，所有元件皆可替換
+- **跨平台**：支援 ARM、x86、RISC-V 架構
+- **安全預設**：嚴格的沙箱隔離、明確的白名單
+
+[🔗Repositories: `mini_bot.rs`](https://github.com/chiisen/mini_bot.rs)
+
+---
+ 
 - mini_bot.go (OpenClaw MVP 自學模仿專案 Go 版)  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />  
 參考 [OpenClaw](https://github.com/anomalyco/opencode) 打造的 Personal AI Agent，目前為 MVP 版本，持續迭代中。  
 🤖 極致輕量的本地端 AI 助理，純 Go 實作  
