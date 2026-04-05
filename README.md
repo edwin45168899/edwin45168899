@@ -44,6 +44,10 @@
 
 ---
 
+[學習 Claude Code CLI 實作](https://github.com/chiisen/cc-cli-go)  
+[利用 Superpowers 製作一個 Todo List，驗證 superpowers 開發流程。](https://github.com/chiisen/superpowers_todo)  
+[完整體驗 Superpowers TDD流程的 Todo List專案。](https://github.com/chiisen/superpowers_todo_tdd)  
+[Flutter 學習筆記: 一個功能完整的待辦事項管理應用程式。](https://github.com/chiisen/Flutter)  
 [MiniOC (迷你 OC（Mini OpenCode） —— 將強大的 OpenCode 思考引擎裝進你的 Telegram！透過 Docker 容器化確保絕對安全，打造最輕巧、易用且專屬於你的 AI 助手。)](https://github.com/chiisen/MiniOC)、  
 [mini_bot.go (OpenClaw MVP 自學模仿專案 Go 版)](https://github.com/chiisen/mini_bot.go)、  
 [mini_bot (OpenClaw MVP 自學模仿專案 Python 版)](https://github.com/chiisen/mini_bot)、  

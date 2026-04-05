@@ -350,3 +350,6 @@ MigrationBackup/
 .ionide/
 /desktop.ini
 /*.ico
+
+.python-version
+

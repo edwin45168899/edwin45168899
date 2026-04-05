@@ -45,6 +45,10 @@ Maybe you want to know:
 
 ---
 
+[Learning Claude Code CLI Implementation](https://github.com/chiisen/cc-cli-go)  
+[Todo List built with Superpowers to verify the Superpowers development workflow.](https://github.com/chiisen/superpowers_todo)  
+[A Todo List project for experiencing the complete Superpowers TDD workflow.](https://github.com/chiisen/superpowers_todo_tdd)  
+[Flutter Learning Notes: A feature-complete task management application.](https://github.com/chiisen/Flutter)  
 [MiniOC (Mini OpenCode — Bring the powerful OpenCode reasoning engine into your Telegram! Ensure absolute security through Docker containerization, creating the most lightweight, easy-to-use, and personalized AI assistant.)](https://github.com/chiisen/MiniOC)、  
 [mini_bot.go (OpenClaw MVP Clone - Go Version for Self-learning)](https://github.com/chiisen/mini_bot.go)、  
 [mini_bot (OpenClaw MVP Clone - Python Version for Self-learning)](https://github.com/chiisen/mini_bot)、  
